@@ -1,0 +1,4 @@
+resources:
+- deploy/mandatory.yaml
+- deploy/provider/cloud-generic.yaml
+
